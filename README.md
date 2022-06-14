@@ -1,3 +1,3 @@
 # rsschool-cv
-# https://github.com/kokhanova/rsschool-cv/cv
-# https://github.com/kokhanova/rsschool-cv
+# https://kokhanova.github.io/rsschool-cv/cv
+# https://kokhanova.github.io/rsschool-cv
